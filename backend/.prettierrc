@@ -1,0 +1,9 @@
+{
+  "prettier.semi": true,
+  "prettier.useTabs": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "prettier.singleQuote": true,
+  "prettier.jsxSingleQuote": true,
+  "prettier.arrowParens": "avoid"
+}
